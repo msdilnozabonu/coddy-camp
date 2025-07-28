@@ -37,7 +37,7 @@ const HomeTop = () => {
   
       <div className="flex justify-center items-center relative">
         <img src={bgImage} alt="home-top" className="w-[483px] h-[526px]" />
-        <img src={bgBoy} alt="home-top" className="absolute top-[0] right-[40]" />
+        <img src={bgBoy} alt="home-top" className="absolute top-[0] right-[0px]" />
       </div>
       
     </div>
